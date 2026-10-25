@@ -30,7 +30,7 @@ Deployed a static website on Amazon Web Services (AWS) using Amazon S3 Static We
 - Documenting cloud deployment steps using GitHub.
 
 ## Deployment
-**Live Website:** [Add your S3 website endpoint here]
+**Live Website:** [ http://sanju-portfolio-2026-unique123.s3-website.eu-north-1.amazonaws.com ]
 
 ## Screenshots
 Deployment screenshots are available in the [`screenshots`](./screenshots/) folder.
